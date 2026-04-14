@@ -1,0 +1,9 @@
+,org_dtype,cleaned_dtype,org_n_missing,cleaned_n_missing,org_n_unique,cleaned_n_unique,org_n_negative,cleaned_n_negative
+InvoiceNo,str,str,0,0,25900,18532,,
+StockCode,str,str,0,0,4070,3665,,
+Description,str,str,1454,0,4223,3877,,
+Quantity,int64,int64,0,0,722,301,10624.0,0.0
+InvoiceDate,str,datetime64[us],0,0,23260,17282,,
+UnitPrice,float64,float64,0,0,1630,440,2.0,0.0
+CustomerID,float64,float64,135080,0,4372,4338,0.0,0.0
+Country,str,str,0,0,38,37,,
